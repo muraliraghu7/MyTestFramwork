@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# .gitignore
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Maven build directory
+target/
